@@ -1,4 +1,4 @@
-# praktikum pengantar pemrograman
+# Praktikum Pengantar Pemrograman
 
 <p> Nama: Velita Rante Sesa </p>
 <p> Nim: 231031051 </p>
